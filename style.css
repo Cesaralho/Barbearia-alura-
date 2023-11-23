@@ -80,7 +80,7 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: url("barbearia fundo2.jpeg");
 	padding: 40px 0;
 }
 
@@ -119,7 +119,7 @@ form label, form legend {
 .enviar {
 	width:40%;
 	padding: 15px 0;
-	background: orange;
+	background: #6e4527;
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -130,7 +130,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: rgb(37, 21, 0);
 	transform: scale(1.2);
 }
 
